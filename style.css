@@ -1,0 +1,53 @@
+#total{
+  background-color:"blue";
+  padding-left: 400px;
+  padding-top: 200px;
+  padding-right: 400px;
+  padding-bottom:200px;
+ background-image:url('http://cdn.shopify.com/s/files/1/1056/3342/products/alphabet_website_grande.jpg?v=1485396356');
+  
+}
+
+
+#user-section{
+  
+  height: 500px;
+  width:1000px;
+  background-color:#000000;
+   background-image:url('https://static.pexels.com/photos/17679/pexels-photo.jpg');
+  
+}
+
+#quotesection{
+  padding-left:100px;
+  padding-top: 100px;
+  padding-right: 100px;
+  width: 1000px;
+  
+}
+
+#quote{
+  background-color:#FFFFFF;
+  height: 200px;
+  width: 400px;
+}
+
+#buttonwrapfb{
+  padding-top:100px;
+  padding-left:200px;
+}
+
+button{
+  color: #000000;
+}
+
+#buttonwraptwitter{
+  padding-top:100px;
+  padding-left:100px;
+}
+
+#buttonwrapNewQuote{
+  padding-top:105px;
+  padding-left:200px;
+  
+}
